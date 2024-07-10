@@ -1,0 +1,1 @@
+﻿dotnet ef migrations add "InitDb" --project Infrastructure --startup-project Web --output-dir Data\Migrations
